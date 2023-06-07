@@ -1,0 +1,6 @@
+{
+  "name": "watermeter",
+  "version-string": "1.001",
+  "dependencies": [ "curl", "libconfig", "libmysql" ]
+
+}
